@@ -1,0 +1,20 @@
+
+.c{
+   
+   height:60px;
+    width:80px;
+    border-radius:50%;
+    line-height:100px;
+    color:#000;
+    text-align:center;
+    background:linear-gradient(lightsalmon,lightblue);
+}
+.c1{
+   height:60px;
+    width:60px;
+    border-radius:50%;
+    line-height:50px;
+    color:#000;
+    text-align:center;
+    background:linear-gradient(lightsalmon,lightblue); 
+}

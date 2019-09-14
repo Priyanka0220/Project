@@ -1,0 +1,15 @@
+ul li{
+    width:150px;
+    height:50px;
+    line-height:50px;
+    margin-left:25px;
+    background:red;
+    color:white;
+    float:left;
+    text-align:center;
+}
+ul li a{
+    text-decoration: none;
+    color:white;
+}
+
